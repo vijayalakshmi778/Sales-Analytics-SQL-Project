@@ -1,4 +1,3 @@
-# Sales-Analytics-SQL-Project
 # SQL Employee & Salary Analysis
 
 ## Project Overview
