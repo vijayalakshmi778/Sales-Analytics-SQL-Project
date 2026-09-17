@@ -1,5 +1,5 @@
 # POWER BI DAX FORMULA NOTES
-## Beginner Reference: Excel Formula -> Power BI DAX
+## Power BI DAX
 
 ---
 
